@@ -1,5 +1,5 @@
-abc
-def
+apple
+bat
 cat
 dog
-mouse
+elephant
