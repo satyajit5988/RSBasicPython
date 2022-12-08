@@ -7,3 +7,4 @@ if ItemsInCart != 2:
 
 assert(ItemsInCart == 2)
 
+
